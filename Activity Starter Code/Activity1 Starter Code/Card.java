@@ -4,10 +4,8 @@
  * <code>Card</code> represents a playing card.
  */
 public class Card {
-
-	/**
-	 * String value that holds the suit of the card
-	 */
+//deleted stuff see if push
+	
 	private String suit;
 
 	/**
